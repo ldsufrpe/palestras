@@ -77,6 +77,7 @@ leon.silva@ufrpe.br
 ---
 
 #### Pontos fortes do Python:
+![bg 70% right:20%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png)
 <!-- header: Por que Python? -->
 - Não inventou a roda
 - Fácil de aprender
@@ -153,7 +154,7 @@ leon.silva@ufrpe.br
 ---
 
 <!-- header: Ecossistema científico Python -->
-![bg 80%](https://www.researchgate.net/publication/332799309/figure/fig1/AS:753947908272130@1556766597837/Schematic-view-of-the-Python-scientific-software-ecosystem-Figure-taken-from-Jake.png)
+![bg 60%](images/ecosystem.jpg)
 
 
 
@@ -278,7 +279,7 @@ linalg.solve(A, b) #Resolve Ax=b
  ```
  ---
 <!-- header: Numpy: base para o ecossistema -->
-![bg 85% right:25%](regiao.png)
+![bg 85% right:25%](images/regiao.png)
 #### Matemática
 - Gerar coordenadas de 81 pontos na região $\small R=[0,5] \times [0,5]$,  distribuidos uniformemente.
 #### NumPy
@@ -302,7 +303,7 @@ xv, yv = np.meshgrid(x, y)
 
 
 ---
-![bg 80% right:30%](plot1.png)
+![bg 80% right:30%](images/plot1.png)
 #### Matplotlib: plot $y=\mathrm{sen}{\,x}$ e $y=\cos{x}$
  ```python
 
@@ -319,7 +320,7 @@ plt.show()
 
 ```
 ---
-![bg 80% right:30%](plot2.png)
+![bg 80% right:30%](images/plot2.png)
 #### Matplotlib: plot $\small z= \mathrm{sen}{\left(\sqrt{x^2+ y^2}\right)}$
  ```python
 import numpy as np
@@ -338,7 +339,7 @@ ax.plot_surface(X, Y, Z, cmap=plt.cm.hot)
 plt.show()
 ```
 ---
-![bg 80% right:30%](pizza.png)
+![bg 80% right:30%](images/pizza.png)
 #### Matplotlib: Gráfico de Pizza
 
  ```python
@@ -479,7 +480,7 @@ dsolve(ddy +9*y(x), y(x))
      - filtros
 
 ---
-![bg 70% right:25% ](logo_dm.png)
+![bg 70% right:25% ](images/logo_dm.png)
 #### Processamento
 - Lendo arquivos da web (logo DM-\UFRPE)
 #### 
@@ -495,7 +496,7 @@ plt.axis('off')
 plt.show()
 ```
 ---
-![bg 70% right:25% ](logo_dm_gray.png)
+![bg 70% right:25% ](images/logo_dm_gray.png)
 #### Processamento
 - RGB para tons de cinza
 #### Scikit-image
@@ -508,7 +509,7 @@ plt.axis('off')
 plt.show()
 ```
 ---
-![bg 70% right:25% ](logo_dm_invert.png)
+![bg 70% right:25% ](images/logo_dm_invert.png)
 #### Processamento
 - Trocar o primeiro fundo com o segundo
 #### Scikit-mage
@@ -561,6 +562,6 @@ plt.show()
 
 ---
 <!-- header: Agradecimentos -->
-![bg 65% ](https://www.colegioliberdadeobjetivo.com.br/images/obrigado.png)
+![bg 65% ](images/thanks.png)
 
 
