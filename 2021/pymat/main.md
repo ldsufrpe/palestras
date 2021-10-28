@@ -405,7 +405,7 @@ t = np.linspace(0, 4, 40)
 y = odeint(calc_derivada, y0=1, t)
 ```
 ---
-![bg 50% right:30% ](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sympy_logo.svg/1200px-Sympy_logo.svg.png)
+![bg 60% right:25% ](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sympy_logo.svg/1200px-Sympy_logo.svg.png)
 #### O que é o SymPy?
 - Operações algébricas em expressões algébricas
 - Operação exatas do Cálculo
