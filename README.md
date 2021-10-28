@@ -1,2 +1,2 @@
-# palestras
+# Palestras
 Palestras acadêmicas
