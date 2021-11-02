@@ -92,7 +92,7 @@ leon.silva@ufrpe.br
 
 #### C, C++, Fortran
 - **Prós**
-   -  Muito rápida. Muito!   
+   - Muito rápida. Muito!   
    - Grátis
 - **Contra**
    - Sintaxe dolorosa
@@ -101,7 +101,7 @@ leon.silva@ufrpe.br
 ---
 ![bg 70% right:20%](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/120px-Julia_Programming_Language_Logo.svg.png)
 
-#### Liguagem  Julia 
+#### Linguagem  Julia 
 - **Prós**
    -  Rápido e simples
    - Capacidade de integração com Python
@@ -150,9 +150,7 @@ leon.silva@ufrpe.br
    - Nem todos os algoritmos estão disponíveis (ainda)
    
 
-
 ---
-
 <!-- header: Ecossistema científico Python -->
 ![bg 60%](images/ecosystem.jpg)
 
@@ -239,10 +237,14 @@ else :
  
 #### O que é o NumPy?
 
-- pacote de extensão para Python para matrizes multidimensionais
-- mais perto do hardware (eficiência)
-- projetado para computação científica (conveniência)
+- Pacote de extensão para Python para matrizes multidimensionais
+- Mais perto do hardware (eficiência)
+- Projetado para computação científica (conveniência)
 - Também conhecido como computação orientada a array
+
+---
+<!-- header: NumPy na Nature  -->
+![bg 50% ](images/nature.png)
 
 ---
 <!-- header: Comparação com Python  -->
@@ -299,7 +301,8 @@ xv, yv = np.meshgrid(x, y)
 - Muito usado para gráficos 2d
 - Fornece dados e figuras de qualidade de publicação
 - Exporta figuras para diversos formatos
--  mais ...
+- Suporta simulações dinâmicas
+- Está integrado ao NumPy
 
 
 ---
@@ -426,7 +429,7 @@ sympy.expand((x+1)**6)
 ---
 ![bg 60% right:25% ](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sympy_logo.svg/1200px-Sympy_logo.svg.png)
 #### Matemática
-- $\small \lim_{x\to 0}\frac{\sin{x}}{x}$ ]
+- $\small \lim_{x\to 0}\frac{\sin{x}}{x}$ 
 -   $\small \frac{d}{dx}\left[\sin{x}\right]$
 - $\small \int\log{x}\,dx$
 #### SymPy
