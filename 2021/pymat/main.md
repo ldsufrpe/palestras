@@ -30,8 +30,8 @@ color: #1b2d4f;
 
 </style>
 
-![bg right:20% 60%](logo_dm.png)
-![bg right:25% 85%](logo_b2.png)
+![bg right:20% 60%](images/logo_dm.png)
+![bg right:25% 85%](images/logo_b2.png)
 
 
 ## O ecossistema Python para matemática computacional
