@@ -65,6 +65,10 @@ leon.silva@ufrpe.br
 ![bg 20%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png)
 
 ---
+<!-- header: Primeira do Ranking TIOBE -->
+![bg 70%](images/tiobe.png)
+
+---
 
 #### Necessidade dos cientistas:
 <!-- header: Por que Python? -->
