@@ -491,9 +491,9 @@ dsolve(ddy +9*y(x), y(x))
 from skimage import io
 import matplotlib.pyplot as plt
 
-url = https://pymat.com.br/assets/images/logos/logo_dm.png
+url = 'https://pymat.com.br/assets/images/logos/logo_dm.png'
 
-logo_dm = io.imread('url')
+logo_dm = io.imread(url)
 plt.imshow(logo_dm)
 plt.axis('off')
 plt.show()
