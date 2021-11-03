@@ -174,7 +174,7 @@ $$\large\sum_{n=0}^{10}3n$$
  ```python
 soma = 0
 for n in range(11):
-    sum +=3*n
+    soma +=3*n
  ```
 ---
 ![bg 60% right:20%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png)
@@ -182,20 +182,20 @@ for n in range(11):
 $$\large\prod_{n=1}^{10}2n$$
 ### Python
  ```python
-produto = 0
+produto = 1
 for n in range(1, 11):
-    sum *=2*n
+    produto *=2*n
  ```
  ---
 
 ![bg 60% right:20%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png)
 ### Matemática
-$$\large A = \{n^2, \forall n \in\mathbb{N}; 20< n< 100 \}$$
+$$\large A = \{n^2, \forall n \in\mathbb{N}; 20\leq n< 100 \}$$
 ### Python
  ```python
 a = 20
 b = 100
-A = [n for n in range(a, b+1)]
+A = set([n for n in range(a, b+1)])
  ```
  ---
 
@@ -365,12 +365,12 @@ plt.show()
 ![bg 60% right:30% ](https://www.fullstackpython.com/img/logos/scipy.png)
 #### O que é o Scipy?
 - Pacote principal para algoritmos científicos em Python
-- Opera com eficiências matrizes do NumPy
+- Opera com eficiência matrizes do NumPy
 - Dedicadas a muitas aplicações científicas
 ---
 ![bg 60% right:30% ](https://www.fullstackpython.com/img/logos/scipy.png)
 #### Matemática
-- Encontrar mínimo da função escalar $f(x)= x^2+ 10\sin{x}, \, 0<x< 10$.
+- Encontrar mínimo da função escalar $f(x)= x^2+ 10\sin{x}, \, 0<x<10$.
 #### SciPy
  ```python
 import numpy as np
@@ -510,7 +510,7 @@ plt.show()
  ```python
 from skimage import  color 
 
-logo_dm_grayscale = color.rgb2gray(logo_dem)
+logo_dm_grayscale = color.rgb2gray(logo_dm)
 plt.imshow(logo_dm_grayscale, cmap=plt.cm.gray)
 plt.axis('off')
 plt.show()
