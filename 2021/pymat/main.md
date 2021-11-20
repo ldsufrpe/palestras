@@ -469,14 +469,14 @@ sym.solve((x + 5*y-2, -3*x + 6*y-15), (x, y))
 - Resolver a EDO $\small y''+ 9y=0$
 #### SymPy
  ```python
-from sympy import Function, dsolve, symbols
+from sympy import Function, dsolve, symbols, diff
 
 x = symbols('x')
 y = Function('y')
 
-ddy = sympy.diff(y(x), x, x)
+ddy = diff(y(x), x, x)
 
-dsolve(ddy +9*y(x), y(x))
+dsolve(ddy + 9*y(x), y(x))
 ```
 ---
 ![bg 60% right:20%](https://avatars.githubusercontent.com/u/897180?s=200&v=4)
