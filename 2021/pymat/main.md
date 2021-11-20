@@ -53,7 +53,7 @@ leon.silva@ufrpe.br
 #### Outline
 - Um pouco sobre Python 
 - Comparações sobre outros softwares
-- Um passeios sobre a sintaxe do Python
+- Um passeio sobre a sintaxe do Python
 - Pacotes para Matemática computacional
 - Onde usar Python
 
@@ -190,7 +190,7 @@ for n in range(1, 11):
 
 ![bg 60% right:20%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png)
 ### Matemática
-$$\large A = \{n^2, \forall n \in\mathbb{N}; 20\leq n< 100 \}$$
+$$\large A = \{n^2, \forall n \in\mathbb{N}; 20\leq n\leq 100 \}$$
 ### Python
  ```python
 a = 20
@@ -226,6 +226,8 @@ return F(n-1) + F(n-2)
 
 #### Python
  ```python
+import math
+
 x = (b**2)-(4*a*c) 
 if x < 0 :
         print ("Raiz negativa nao pode ser extraida.")
