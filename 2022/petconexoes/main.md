@@ -53,7 +53,7 @@ leon.silva@ufrpe.br
 ---
 #### Outline
 - Um pouco sobre Python 
-- Comparações sobre outros softwares
+- Comparações entre outros softwares
 - Um passeio sobre a sintaxe do Python
 - Pacotes para computação científica
 - Onde usar Python
@@ -63,20 +63,20 @@ leon.silva@ufrpe.br
 ---
 #### O que é Python?
 
-- Lançada por Guido van Rossum (1989)
 - Linguagem de programação
-- De alto nível <!--Distante da linguagem de máquina e poximo da linguegam humana-->
+- Lançada por Guido van Rossum (1989)
+- Alto nível <!--Distante da linguagem de máquina e próximo da linguagem humana-->
 
 ![bg 50% right:40%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png)
 
 
 ---
-#### O que é computação científica?
+#### O que é Computação Científica?
 
 <!-- ![bg 50% right:20%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png) -->
 
 
-> Computação Científica é a coleção de ferramentas, técnicas e teorias necessárias  para resolver em um computador modelos matemáticos de problemas em Ciência e  Engenharia **[Golub & Ortega]**
+> ... é a coleção de **ferramentas**, **técnicas** e **teorias** necessárias  para resolver em um computador modelos matemáticos de problemas em **Ciência** e  **Engenharia** __[Golub & Ortega]__
 
 
 ---
