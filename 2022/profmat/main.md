@@ -46,8 +46,9 @@ leon.silva@ufrpe.br
 - Lic. em Matemática (DM - UFRPE)
 - Mestre em Matemática (DMAT - UFC)
 - Doutor em Ciência da Computação (Cin-UFPE)
+- Professor no DM-UFRPE
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![w:220](https://sagectu.com.br/img/elementos_de_computacao_matematica_com_sagemath.jpg)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![w:200](https://sagectu.com.br/img/elementos_de_computacao_matematica_com_sagemath.jpg)  
 
 ---
 #### Outline
@@ -101,20 +102,22 @@ _Dado um mapa plano, dividido em regiões, quatro cores são suficientes para co
 
 - Appel-Haken (1976)
 - Robertson, Sanders, Seymour e Thomas (1997)
--  Georges Gonthier (2005)
+-  Georges Gonthier (software de prova, 2005)
 ---
 
 <!-- header: Teoremas provados com a ajuda de programas de computador -->
 #### Conjectura de Kepler (1611)
 
- O problema do empacotamento ótimo da esfera em uma caixa. A Conjectura de Kepler era um problema famoso da geometria discreta, que demandava pela maneira mais eficiente de empilhar esferas em um dado espaço.
+ A Conjectura de Kepler era um problema famoso da geometria discreta, que demandava pela maneira mais eficiente de empilhar esferas em um dado espaço.
 
-Em 1611 Kepler conjecturou que esse empilhamento piramidal, que é usado, por exemplo, pelos verdureiros para organizar suas mercadorias, é também o método ideal que permite agrupar um maior número de esferas no menor espaço possível. 
+- Thomas Hales (1998)
+- Flyspeck project team (software de prova, 2014)
+- Publicado (2017)
 
  <!-- https://muralcientifico.com/2017/06/19/publicado-artigo-que-prova-a-conjectura-de-kepler-problema-matematico-nao-resolvido-por-400-anos/ -->
  ![bg 70% right:30%](https://qph.cf2.quoracdn.net/main-qimg-4fba1bb72022709d89396c6097788d3c-lq)
- - Thomas Hales (1998)
- - Publicado (2017)
+
+ 
 ---
 
 <!-- header: ? Teoremas provados com a ajuda de programas de computador -->
@@ -122,7 +125,6 @@ Em 1611 Kepler conjecturou que esse empilhamento piramidal, que é usado, por ex
 
 - Atrator de Lorenz (2002)
 - Soluções ideais para o Cubo de Rubik (2010)
-
 
 ---
 <!-- header: Agradecimentos -->
