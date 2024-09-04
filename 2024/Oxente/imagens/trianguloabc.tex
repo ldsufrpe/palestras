@@ -1,0 +1,10 @@
+\definecolor{mycolorpink}{RGB}{249,112,190}
+\begin{tikzpicture}[scale=0.8]
+\path (120:3) coordinate (A) (0:3) coordinate (B) (0:0) coordinate (C);
+\draw(A) 
+  -- (B) node [midway, above] {$c$}
+  -- (C)  node [midway, below] {$a$}
+  -- (A)  node [midway, below] {$b$}
+  -- cycle;
+   \filldraw[mycolorpink] (A)--(B)--(C)--cycle;
+  \end{tikzpicture}

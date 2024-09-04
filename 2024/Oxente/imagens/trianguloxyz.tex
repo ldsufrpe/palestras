@@ -1,0 +1,10 @@
+\definecolor{mycolorblue}{RGB}{55,210,231}
+\begin{tikzpicture}[scale=0.8]
+\path (85:3) coordinate (A) (0:3) coordinate (B) (0:0) coordinate (C);
+\draw[](A) 
+  -- (B)  node [midway, above] {$z$}
+  -- (C)  node [midway, below] {$x$}
+  -- (A) node [midway, left] {$y$}
+  -- cycle;
+ \filldraw[mycolorblue] (A)--(B)--(C)--cycle;
+\end{tikzpicture}
