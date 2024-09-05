@@ -4,7 +4,7 @@ theme: default
 class: lead
 paginate: true
 backgroundColor: #f7f9fc
-header: Live: Live - É matemática, Ôxente! 
+header: Live: Jornal É Matemática, Ôxente! 
 
 style: |
   section {
@@ -59,7 +59,7 @@ style: |
 
 **Palestrante:** Leon Silva (leon.silva@ufrpe.br)
 **Instituição:** DM-UFRPE
-**Evento:** Live - É matemática, Ôxente!
+**Evento:** Live do Jornal _É matemática, Ôxente!_
 **Data:** 05/09
 
 ---
@@ -80,7 +80,7 @@ style: |
 4. Aplicações em Olimpíadas de Matemática
    - Gazeta Matemática
    - OPEMAT
-   - Competição Tcheco-Eslovaca, 1999
+   - Competição da Checoslováquia 1999
    - Olimpíada de Matemática da Irlanda, 1999
 5. Fórmula de Herão
 6. Conclusão
@@ -112,7 +112,7 @@ $$
 </div>
 
 ---
-### Exemplo 1: Gazeta Matemática
+### Exemplo 1: Gazeta Matemática (Revista SPM)
 
 <div class="box">
 
@@ -234,10 +234,10 @@ $$
 
 <div class="box">
 
-Sejam \(a, b, c\) (\(a > b > c\)) números inteiros e primos entre si. De acordo com a Figura abaixo, temos dois conjuntos de caixas:
+Sejam $a, b, c$ $(a > b > c$ números inteiros e primos entre si. De acordo com a Figura abaixo, temos dois conjuntos de caixas:
 
-1. Três caixas cúbicas na cor rosa com seus respectivos comprimentos \(a\), \(b\) e \(c\);
-2. Três paralelepípedos azuis idênticos cujos lados medem \(a\), \(b\) e \(c\).
+1. Três caixas cúbicas na cor rosa com seus respectivos comprimentos $a$, $b$ e $c$;
+2. Três paralelepípedos azuis idênticos cujos lados medem $a$, $b$ e $c$.
 </div>
 
 ---
@@ -377,7 +377,7 @@ $$
 $$
 
 ---
-### Exemplo: Competição Tcheco-Eslovaca 1999
+### Exemplo: Competição Checoslováquia 1999
 
 <div class="box">
 Sejam $a, b, c$ números reais positivos quaisquer. Prove a desigualdade:
@@ -441,7 +441,7 @@ $$
 ---
 ### Conclusão
 
-- Ao longo desta apresentação, exploramos várias desigualdades importantes na matemática, incluindo a **Desigualdade de Cauchy-Schwarz** e o **Lema de Titu**, mostrando como elas podem ser aplicadas em problemas de olimpíadas.
+- Ao longo desta apresentação, exploramos desigualdades importantes, incluindo a **Desigualdade de Cauchy-Schwarz** e o **Lema de Titu**, mostrando como elas podem ser aplicadas em problemas de olimpíadas.
 
 - **Desigualdade de Cauchy-Schwarz** é uma das mais poderosas ferramentas para lidar com desigualdades em diversas áreas da matemática, especialmente em álgebra linear e análise.
 
